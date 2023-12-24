@@ -1,0 +1,130 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+.casamento{
+    width: 225px;
+    height: 310px;
+    border-radius: 200px;
+    margin-left: 617px;
+}
+
+.mo{
+    text-align: center;
+}
+
+.feliz{
+    text-align: center;
+}
+
+.beijinho{
+    width: 215px;
+    height: 310px;
+    border-radius: 200px;
+    margin-left: 617px;
+}    
+
+.bejos{
+    text-align: center;
+}
+
+.cineminha{
+    width: 225px;
+    height: 300px;
+    border-radius: 200px;
+    margin-left: 617px;
+}
+
+.cinema{
+    text-align: center;
+}
+
+.super{
+    width: 225px;
+    height: 350px;
+    border-radius: 120px;
+    margin-left: 617px;
+}
+
+.sup{
+    text-align: center;
+}
+
+.shopping{
+    width: 215px;
+    height: 310px;
+    border-radius: 200px;
+    margin-left: 617px;
+}    
+
+.manaira{
+    text-align: center;
+}
+
+.tambia{
+    width: 215px;
+    height: 310px;
+    border-radius: 200px;
+    margin-left: 617px;
+} 
+
+.tamb{
+    text-align: center;
+}
+
+.praia{
+    width: 215px;
+    height: 280px;
+    border-radius: 200px;
+    margin-left: 617px;
+}
+
+.prai{
+    text-align: center;
+}
+
+.ensaio{
+    width: 215px;
+    height: 310px;
+    border-radius: 200px;
+    margin-left: 617px;
+}
+
+.ensai{
+    text-align: center;
+}
+
+.restaurante{
+    width: 215px;
+    height: 350px;
+    border-radius: 200px;
+    margin-left: 617px;
+}
+
+.restaurant{
+    text-align: center;
+}
+
+.faculdade{
+    width: 215px;
+    height: 310px;
+    border-radius: 200px;
+    margin-left: 617px;
+}
+
+.faculdad{
+    text-align: center;
+    padding-bottom: 100px;
+}
+
+.textinh{
+    text-align: center;
+}
+
+.site{
+    margin: 0px;
+    background-image: linear-gradient( 111.4deg,  rgba(238,113,113,1) 1%, rgba(246,215,148,1) 58% );
+    justify-content: center;
+}
